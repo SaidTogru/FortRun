@@ -26,8 +26,8 @@ Experience FortRun now: [FortRun on App Store](https://apps.apple.com/de/app/for
 
 ## Game Trailers
 ### **Bolt Character**
-https://github.com/SaidTogru/FortRun/assets/65668541/769e6509-823a-4333-a34a-a1bbad32fe0d
+https://github.com/SaidTogru/FortRun/assets/65668541/3b452997-4233-44ae-a1a6-13ab1dce57c5
 ### **Fire Character**
 https://github.com/SaidTogru/FortRun/assets/65668541/d3f1180e-0cc9-4cb0-8d47-33b133127894
 ### **Main**
-https://github.com/SaidTogru/FortRun/assets/65668541/539bf330-cb97-438e-bc07-f48bcab346db
+https://github.com/SaidTogru/FortRun/assets/65668541/492989af-3058-4463-bffb-0808aafbe618
